@@ -33,4 +33,4 @@ O Arduino desliga o aparelho enviando um comando infravermelho (`RAW`) quando **
 
 ---
 
-Desenvolvido por **Rafaela Vergotti** ([@faelavgtt](https://github.com/faelavgtt))
+Desenvolvido por **Rafaela Vergotti, Ahmed Nasser, Lucas Luares, João Moura** 
